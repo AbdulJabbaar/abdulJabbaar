@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=abdulJabbaar)
+
 ## Hi there 👋
 
 <!--
