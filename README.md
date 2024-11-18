@@ -5,7 +5,7 @@ I'm a full-stack developer and always on the lookout for new challenges and oppo
 
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/abdulJabbaar">
+  <a href="https://www.linkedin.com/in/abdul-jabbaar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
